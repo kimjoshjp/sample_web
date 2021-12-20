@@ -1,2 +1,2 @@
 FROM dockersamples/static-site
-ENV AUTHOR="Summer holiday is coming !! Y2021"
+ENV AUTHOR="Christmas is coming !! Y2021"
